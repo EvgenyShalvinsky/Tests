@@ -1,2 +1,2 @@
 # Tests
-Tests examples for sites
+Tests examples for sites orders catalog and pipes
